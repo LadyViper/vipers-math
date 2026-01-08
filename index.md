@@ -1,5 +1,7 @@
 # Viper's Math
 
+(Disclaimer: This is a stud of a page, it will be polished later; for now I just wanted to provide an existential space)
+
 I recently started applying for a variety of PhDs, conferences, and jobs, and I realised that every time I’m asked about my research interests or mathematical expertise, my mind goes blank.
 
 The strange thing is: I do know what I’m doing. I have no trouble talking about mathematics over a beer for several hours. And yet, when it comes to formalising these thoughts on a page, I often end up staring at an empty screen.
