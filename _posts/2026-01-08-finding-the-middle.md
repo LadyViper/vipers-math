@@ -1,4 +1,9 @@
-The vice-commander turned towards us.
+---
+title: "How do you find the middle of a crowd?"
+categories: [play, applied]
+---
+
+Vice-commander turned towards us.
 
 “Alright, listen up. We’re short on people today, so we need to divide our forces. Two of you at the end of the crowd, two with me at the beginning, and the rest goes in the middle.”
 
