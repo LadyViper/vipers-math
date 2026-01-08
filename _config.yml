@@ -1,0 +1,5 @@
+title: Viper's Math
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
