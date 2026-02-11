@@ -1,0 +1,20 @@
+<!-- Load MathJax so math works -->
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+---
+title: "Modular method - what is it?"
+categories: [my math, introductory]
+---
+
+Since I officially started writing my master thesis and will give my first official seminar talk on it, I figured, I might as well try putting my first post about it here. Please take all this with a pinch of salt - I'm only learning this stuff myself, and can only talk about it as well as I understood it myself.
+
+A reasonable question to start with would be: What is this method for? The name itself suggests that it's a tool after all. To put it plainly - it's a method used for proving that some Diophantine equations have no solutions. (A Diophantine equation is a polynomial equation with integer coefficients, for which only integer solutions are of interest (Wikipedia).) It won't help you with functional equations over complex number, nor will it give zou a nice list of solutions to an equation - it only provides a way to look for contradictions in some arithmetic problems. 
+
+One of these problems is my all time favourite: Fermat's Last Theorem. In its classical version it states, that the equation:
+
+$$ x^n + y^n = z^n$$
+
+has no rational solutions for $n \geqslant 3$.
+
