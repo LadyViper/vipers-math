@@ -1,6 +1,7 @@
 ---
 title: "How do you find the middle of a crowd?"
 categories: [play, applied]
+published: false
 ---
 
 Vice-commander turned towards us.
