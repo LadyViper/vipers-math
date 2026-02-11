@@ -2,9 +2,6 @@
 title: "Modular method - what is it?"
 categories: [my math, introductory]
 ---
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
 
 Since I officially started writing my master thesis and will give my first official seminar talk on it, I figured, I might as well try putting my first post about it here. Please take all this with a pinch of salt - I'm only learning this stuff myself, and can only talk about it as well as I understood it myself.
 
