@@ -1,7 +1,4 @@
-<!-- Load MathJax so math works -->
-<script type="text/javascript" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+
 ---
 title: "Modular method - what is it?"
 categories: [my math, introductory]
