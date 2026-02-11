@@ -1,5 +1,5 @@
 ---
-title: "Modular method - what is it?"
+title: "Modular method"
 categories: [my math, introductory]
 ---
 
